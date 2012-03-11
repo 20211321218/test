@@ -4,7 +4,7 @@
     var test;
 
     test = function test() {
-        return 'test + test';
+        return 'test';
     };
 
     console.log(test());
