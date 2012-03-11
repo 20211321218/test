@@ -6,7 +6,7 @@
 
 
 
-            return 'test + test';
+            return 'test';
 
 
 
