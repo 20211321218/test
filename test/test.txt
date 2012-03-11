@@ -1,4 +1,11 @@
-テスト
-テスト
-test
-test
+(function () {
+    'use strict';
+
+    var test;
+
+    test = function test() {
+        return 'test + test';
+    };
+
+    console.log(test());
+}());
